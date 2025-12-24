@@ -1,0 +1,7 @@
+{
+  "name": "Dindigul Live Bus Tracker",
+  "description": "A professional real-time bus tracking application for Dindigul, Tamil Nadu, featuring live GPS simulation, route management, and arrival estimations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
